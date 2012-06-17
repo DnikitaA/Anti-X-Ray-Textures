@@ -1,0 +1,5 @@
+Anti-X-Ray-Textures
+This mod does not use X-Ray texture packs in the multiplayer mode.
+For install this mod, you should to copy two classes (minecraft/ala.class;minecraft/ProtectionTextures.class)
+in minetsraft.jar. If you have other mods, which are incompatible with this mod, you can build it yourself using MCP. 
+Changed lines are marked with comments.
